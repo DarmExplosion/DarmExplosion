@@ -1,2 +1,2 @@
 <h1 id=test1> test </h1>
-<script>document.getElementByID("test1").innerHtml = "test1" </script>
+[![Stats](https://github-readme-stats.vercel.app/api?username=Darmexplosion)](https://github.com/anuraghazra/github-readme-stats)
