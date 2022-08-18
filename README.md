@@ -11,6 +11,5 @@
 
 </p>
 
-<p align="center">
-![Profile View Counter](https://komarev.com/ghpvc/?username=KonVision&color=blueviolet&style=flat)
-</p>
+![Profile View Counter](https://komarev.com/ghpvc/?username=DarmExplosion&color=blueviolet&style=flat)
+
