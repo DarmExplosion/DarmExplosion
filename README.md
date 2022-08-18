@@ -2,12 +2,12 @@
 sup
 
 <p align="center">
-  <img width=600px src="https://github-readme-stats.vercel.app/api?username=DarmExplosion&theme=jolly"
+  <img width=500px src="https://github-readme-stats.vercel.app/api?username=DarmExplosion&theme=jolly"
        </p>
 
 
 <p align="center">
-  <img width=600px src="https://github-readme-stats.vercel.app/api/top-langs/?username=DarmExplosion&layout=compact&theme=jolly">
+  <img width=500px src="https://github-readme-stats.vercel.app/api/top-langs/?username=DarmExplosion&layout=compact&theme=jolly">
 
 </p>
 
