@@ -1,6 +1,3 @@
-
-sup
-
 <p align="center">
   <img width=450px src="https://github-readme-stats.vercel.app/api?username=DarmExplosion&theme=jolly"
        </p>
