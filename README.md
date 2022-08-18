@@ -11,6 +11,4 @@ sup
 
 </p>
 
-<p align="center">
-![Profile View Counter](https://komarev.com/ghpvc/?username=DarmExplosion&color=blueviolet&style=flat)
-</p>
+<p align="center"> &nbsp;<img align="center" src="https://komarev.com/ghpvc/?username=DarmExplosion&color=blueviolet&style=flat" alt="Profile Views"/> </p>
