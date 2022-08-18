@@ -10,3 +10,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DarmExplosion&layout=compact">
 
 </p>
+
+<p align="center">
+![Profile View Counter](https://komarev.com/ghpvc/?username=KonVision&color=blueviolet&style=flat)
+</p>
